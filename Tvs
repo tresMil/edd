@@ -1,0 +1,24 @@
+#EXTINF:-1,fox sport 3 mx
+http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(FOXSP3_MX_HD)/Stream(03)/index.m3u8
+#EXTINF:-1,FOX SPORT 3
+http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(FOX_SPORTS3_HD)/Stream(03)/index.m3u8
+#EXTINF:-1,FOX SPORT 2 MX
+http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(FOXSP2_MX_HD)/Stream(03)/index.m3u8
+#EXTINF:-1,FOX SPORT 2
+http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(FOX_SPORTS2_HD)/Stream(03)/index.m3u8
+#EXTINF:-1,FOX SPORT 1 MX
+http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(FOXSP1_MX_HD)/Stream(03)/index.m3u8
+#EXTINF:-1,FOX SPORT
+http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(FOX_SPORTS_HD)/Stream(03)/index.m3u8
+#EXTINF:-1,ESPN 3
+http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(ESPN_3_HD)/Stream(03)/index.m3u8
+#EXTINF:-1,ESPN 2
+http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(ESPN_2_HD)/Stream(03)/index.m3u8
+#EXTINF:-1,ESPN PLUS
+http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(ESPN_PLUS_HD)/Stream(03)/index.m3u8
+#EXTINF:-1,ESPN
+http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(ESPN_HD)/Stream(03)/index.m3u8
+#EXTINF:-1,Claro sport col.
+http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(CLARO_SPORTS_COL_HD)/Stream(03)/index.m3u8
+#EXTINF:-1,Claro Sport
+http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(CLARO_SPORTS_LATAM_HD)/Stream(03)/index.m3u8
